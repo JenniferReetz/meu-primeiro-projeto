@@ -121,7 +121,7 @@ class Escolhas {
                             if (escolhaCase1 == 1) {
                                 break;
                             } else {
-                                System.out.println("Ops! acho que você não digitou uma escolha!\n mas vamos continuar mesmo assim");
+                                System.out.println("Ops! acho que você não digitou uma escolha válida!\n mas vamos continuar mesmo assim");
                                 break;
 
                             }
